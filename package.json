@@ -1,0 +1,22 @@
+{
+  "name": "readme_for_github",
+  "version": "1.0.0",
+  "description": "I'm an experienced marketer who loved data analysis so much I went back to school for it! Currently a second-year graduate student studying [computer science and public policy](https://capp.uchicago.edu/) at the University of Chicago's Harris School of Public Policy. While data science got me into coding, full stack development has piqued my interest as of late.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliklemencic/aliklemencic.git"
+  },
+  "author": "Ali Klemencic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliklemencic/aliklemencic/issues"
+  },
+  "homepage": "https://github.com/aliklemencic/aliklemencic#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
