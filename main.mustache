@@ -4,19 +4,19 @@ I'm Ali, a second-year graduate student studying [computer science and public po
 ### Experienced With
 &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width="50"/>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width="50"/></a>
 &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" alt="python" width="50"/>
+<a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/R-Dark.svg" alt="python" width="50"/></a>
 &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50"/>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50"/></a>
 &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="docker" width="50"/>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="docker" width="50"/></a>
 &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="git" width="50"/>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="git" width="50"/></a>
 
 ### A Bit About Me
 - I use she/her pronouns
