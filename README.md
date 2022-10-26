@@ -32,14 +32,18 @@ I'm Ali, a second-year graduate student studying [computer science and public po
 
 ### Currently Working On
 - 👩🏻‍🏫 School Projects
-  - Enjoying summer break! 🕺🏻
+  - Developing websites using node.js and Express
+  - Developing a big data application using Hive, HBase, and Hadoop
+  - Researching the impact of climate change on the demographics of Chicago
 - 👩🏻‍💻 Work Projects
-  - Just finished partnering with the [Data Science Institute](https://datascience.uchicago.edu/), [BankTrack](banktrack.org), and [Inclusive Development International](https://www.inclusivedevelopment.net/) to scrape the SEC's website, clean text from 8-K forms, and extract relevant information using NLP models, laying the groundwork for future students to build a searchable database of commercial bank loans that can be used to hold banks accountable for the projects in which they invest
+  - Partnering with [FracTracker Alliance](https://www.fractracker.org/) to automatically send user-documented potentially harmful infrastructure activity to state environmental agencies
+  - Building a web application and database of state, local, and national legislation to educate voters and suggest engagement opportunities
   - Consulting for the [Harris School of Public Policy](https://harris.uchicago.edu/) on marketing projects to increase the school's reach and impact
-  - TAing first year students in Python, Git, and Linux file management
+  - Grading first year students' Python programming assignments
 
 ### Past Projects
 *Many repositories from school projects are private for academic integrity and intellectual property purposes. Code can be shared with prospective employers upon request.*
+- Partnered with the [Data Science Institute](https://datascience.uchicago.edu/), [BankTrack](banktrack.org), and [Inclusive Development International](https://www.inclusivedevelopment.net/) to scrape the SEC's website, clean text from 8-K forms, and extract relevant information using NLP models, laying the groundwork for future students to build a searchable database of commercial bank loans that can be used to hold banks accountable for the projects in which they invest
 - RESTful API and Database using Flask and PostgreSQL
 - Classification using Decision Trees, K-Nearest Neighbors, Perceptrons, Logistic Regression, and Neural Networks in PyTorch
 - Record Linkage using Jaro-Winkler Distance
