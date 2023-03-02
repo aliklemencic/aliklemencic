@@ -1,4 +1,4 @@
-## Happy Wednesday! ✨ Thanks for vising my GitHub.
+## Happy Thursday! ✨ Thanks for vising my GitHub.
 I'm Ali, a second-year graduate student studying [computer science and public policy](https://capp.uchicago.edu/) at the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/). I was a digital marketer in my former life, but now hope to use my coding skills to inspire data-driven decision-making and engineer human-centered software for social good.
 
 ### Experienced With
