@@ -1,4 +1,4 @@
-## Happy Thursday! ✨ Thanks for vising my GitHub.
+## Happy Wednesday! ✨ Thanks for vising my GitHub.
 I'm Ali, a second-year graduate student studying [computer science and public policy](https://capp.uchicago.edu/) at the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/). I was a digital marketer in my former life, but now hope to use my coding skills to inspire data-driven decision-making and engineer human-centered software for social good.
 
 ### Experienced With
@@ -36,7 +36,7 @@ I'm Ali, a second-year graduate student studying [computer science and public po
   - Diving into common algorithms and their applications
 - 👩🏻‍💻 Work Projects
   - Partnering with [FracTracker Alliance](https://www.fractracker.org/) to automatically send user-documented potentially harmful infrastructure activity to state environmental agencies
-  - Developing a web application that matches users with personalized, local volunteering opportunities to promote civi engagement
+  - Developing a web application that matches users with personalized, local volunteering opportunities to promote civic engagement
   - Consulting for the [Harris School of Public Policy](https://harris.uchicago.edu/) on marketing projects to increase the school's reach and impact
 
 ### Past Projects
