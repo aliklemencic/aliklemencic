@@ -32,8 +32,9 @@ I'm Ali, a second-year graduate student studying [computer science and public po
 
 ### Currently Working On
 - 👩🏻‍🏫 School Projects
-  - Developing a genomic annotation service using Flask and AWS, including S3, DynamoDB, SNS, and SQS
-  - Diving into common algorithms and their applications
+  - Mentoring and project managing students working on real-world data science projects with the Data Science Institute for academic credit.
+  - Bayesian statistical modeling in Python
+  - Exploring computer architecture
 - 👩🏻‍💻 Work Projects
   - Partnering with [FracTracker Alliance](https://www.fractracker.org/) to automatically send user-documented potentially harmful infrastructure activity to state environmental agencies
   - Developing a web application that matches users with personalized, local volunteering opportunities to promote civic engagement
@@ -41,6 +42,7 @@ I'm Ali, a second-year graduate student studying [computer science and public po
 
 ### Past Projects
 *Many repositories from school projects are private for academic integrity and intellectual property purposes. Code can be shared with prospective employers upon request.*
+- Developed a genomic annotation service using Flask, JavaScript, HTML, and AWS, including S3, DynamoDB, SNS, SQS, and Lambda functions.
 - Engineered an application detailing crimes in Chicago by type of weather using Hive, HBase, Hadoop, Thrift, and Kafka
 - Built a website about the James Webb Space Telescope using React, node.js, and JavaScript
 - Partnered with the [Data Science Institute](https://datascience.uchicago.edu/), [BankTrack](banktrack.org), and [Inclusive Development International](https://www.inclusivedevelopment.net/) to scrape the SEC's website, clean text from 8-K forms, and extract relevant information using NLP models, laying the groundwork for future students to build a searchable database of commercial bank loans that can be used to hold banks accountable for the projects in which they invest
