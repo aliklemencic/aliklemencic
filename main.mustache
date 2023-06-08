@@ -14,11 +14,11 @@
 👀 currently searching for a full time engineering position!
 
 
-## 🕰 Currently...
+## 🕰 I am currently...
 
-👩🏻‍💻 working with UChicago's [Data Science Institute](https://datascience.uchicago.edu/) to:\
-    &ensp;&ensp;&ensp;&ensp;🏭 automatically send user-documented potentially harmful infrastructure activity to state environmental agencies using a RESTful API in Flask in partnership with [FracTracker Alliance](https://www.fractracker.org/).\
-    &ensp;&ensp;&ensp;&ensp;🌺 analyze the health and environmental risks of pesticides in Hawai'i in partnership with [Hawaiʻi Alliance for Progressive Action](https://www.hapahi.org/) and [Pesticide Action Network - North America](https://www.panna.org/).
+🏭 partnering with UChicago's [Data Science Institute](https://datascience.uchicago.edu/) and [FracTracker Alliance](https://www.fractracker.org/) to automatically send user-documented potentially harmful infrastructure activity to state environmental agencies, using a RESTful API in Flask.
+
+🌺 parntering with UChicago's [Data Science Institute](https://datascience.uchicago.edu/), [Hawaiʻi Alliance for Progressive Action](https://www.hapahi.org/), and [Pesticide Action Network - North America](https://www.panna.org/) to analyze the health and environmental risks of pesticides in Hawai'i.
 
 👩🏻‍💼 consulting for the [Harris School of Public Policy](https://harris.uchicago.edu/) on marketing projects to increase the school's reach and impact.
 
