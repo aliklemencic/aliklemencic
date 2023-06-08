@@ -1,4 +1,4 @@
-## Happy Monday! ✨ Thanks for vising my GitHub.
+## Happy Thursday! ✨ Thanks for vising my GitHub.
 I'm Ali, a second-year graduate student studying [computer science and public policy](https://capp.uchicago.edu/) at the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/). As a data professional with over four years of experience, I'm commited to using my coding skills to inspire data-informed decisions and engineer human-centered software for social good.
 
 ### Experienced With
@@ -21,11 +21,13 @@ I'm Ali, a second-year graduate student studying [computer science and public po
 ### Currently Working On
 
 👩🏻‍🏫 School Projects
-  - Bayesian statistical modeling in Python
+  - Modeling Bayesian methods for statistical analysis in Python
+  - Analyzing the emerging risks of technological advancements from a public policy perspective
+  - Exploring computer achitecture from the perspective of a high performance programmer
 
 👩🏻‍💻 Work Projects
   - Mentoring and project managing 2 undergraduate and 2 graduate students building a convolutional neural network in PyTorch to classify neutrino activity in partnership with the Fermi Lab
-  - Mentoring and project managing 4 students working on a data science project in partnership with the Hawaiʻi Alliance for Progressive Action
+  - Mentoring and project managing 2 undergraduate and 2 graduate students conducting exploratory data analysis on the health and environmental risks of pesticides in partnership with the Hawaiʻi Alliance for Progressive Action
   - Developing a web application that matches users with personalized, local volunteering opportunities to promote civic engagement
   - Consulting for the [Harris School of Public Policy](https://harris.uchicago.edu/) on marketing projects to increase the school's reach and impact
 
