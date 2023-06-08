@@ -9,7 +9,7 @@
 
 💻 data professional with 4+ years experience pivoting to an engineering career focused on building human-centered software for social good.
 
-🇺🇸 American, 🇨🇦 Canadian, and 🇸🇮 Slovenian, and I've lived in Japan 🎌, Germany 🍻, and the U.S. 🗽
+🇺🇸 American, 🇨🇦 Canadian, and 🇸🇮 Slovenian who has lived in Japan 🎌, Germany 🍻, and the U.S. 🗽
 
 👀 currently searching for a full time engineering position!
 
