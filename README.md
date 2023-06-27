@@ -1,4 +1,4 @@
-# Happy Monday! ✨ I'm Ali.
+# Happy Tuesday! ✨ I'm Ali.
 
 ![profile count](https://komarev.com/ghpvc/?username=aliklemencic&color=008080) &nbsp;
 
