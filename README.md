@@ -7,7 +7,7 @@
 
 👩🏻‍🎓 recent graduate with a Master of Science in [computer science and public policy](https://capp.uchicago.edu/) from the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/).
 
-💻 data professional with 4+ years experience pivoting to an engineering career focused on building human-centered software for social good.
+💻 data professional with 6+ years of experience pivoting to an engineering career focused on building human-centered software for social good.
 
 🇺🇸 American, 🇨🇦 Canadian, and 🇸🇮 Slovenian who has lived in Japan 🎌, Germany 🍻, and the U.S. 🗽
 
