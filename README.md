@@ -1,8 +1,5 @@
 # Happy Saturday! ✨ I'm Ali.
 
-![profile count](https://komarev.com/ghpvc/?username=aliklemencic&color=008080) &nbsp;
-
-
 ## 🕺🏻 About Me
 
 👩🏻‍🎓 recent graduate with a Master of Science in [computer science and public policy](https://capp.uchicago.edu/) from the University of Chicago's [Harris School of Public Policy](https://harris.uchicago.edu/).
@@ -11,17 +8,9 @@
 
 🇺🇸 American, 🇨🇦 Canadian, and 🇸🇮 Slovenian who has lived in Japan 🎌, Germany 🍻, and the U.S. 🗽
 
-👀 currently searching for a full time engineering position!
-
-
 ## 🕰 I am currently...
 
-🏭 partnering with UChicago's [Data Science Institute](https://datascience.uchicago.edu/) and [FracTracker Alliance](https://www.fractracker.org/) to automatically send user-documented potentially harmful infrastructure activity to state environmental agencies, using a RESTful API in Flask.
-
-🌺 parntering with UChicago's [Data Science Institute](https://datascience.uchicago.edu/), [Hawaiʻi Alliance for Progressive Action](https://www.hapahi.org/), and [Pesticide Action Network - North America](https://www.panna.org/) to analyze the health and environmental risks of pesticides in Hawai'i.
-
-👩🏻‍💼 consulting for the [Harris School of Public Policy](https://harris.uchicago.edu/) on marketing projects to increase the school's reach and impact.
-
+🥩 working at [a cultivated meat startup](https://ark-biotech.com)focused on creating industrial-scale, affordable, and efficient bioreactors and operating systems.
 
 ## 🛠 Tech Stack
 
