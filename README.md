@@ -1,4 +1,4 @@
-# Happy Wednesday! ✨ I'm Ali.
+# Happy Thursday! ✨ I'm Ali.
 
 ## 🕺🏻 About Me
 
