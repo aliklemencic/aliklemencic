@@ -1,4 +1,4 @@
-# Happy Saturday! ✨ I'm Ali.
+# Happy Sunday! ✨ I'm Ali.
 
 ## 🕺🏻 About Me
 
