@@ -1,4 +1,4 @@
-# Happy Saturday! ✨ I'm Ali.
+# Happy Monday! ✨ I'm Ali.
 
 ## 🕺🏻 About Me
 
@@ -10,7 +10,7 @@
 
 ## 🕰 I am currently...
 
-🥩 working at [a cultivated meat startup](https://ark-biotech.com)focused on creating industrial-scale, affordable, and efficient bioreactors and operating systems.
+🥩 working at a Boston-based [cultivated meat startup](https://ark-biotech.com) focused on creating industrial-scale, affordable, and efficient bioreactors and operating systems.
 
 ## 🛠 Tech Stack
 
