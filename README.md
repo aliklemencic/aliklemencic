@@ -1,4 +1,4 @@
-# Happy Monday! ✨ I'm Ali.
+# Hi! I'm Ali. ✨
 
 I'm a software engineer with a passion for social good and a Master's degree in [computer science and public 
 policy](https://capp.uchicago.edu/). I was a data professional for over four years but am now committed to 
